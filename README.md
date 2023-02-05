@@ -23,3 +23,5 @@ I'm graduted in Higher Degree in Cross-Platform Application Development.
 If you'd like to get in touch, feel free to send me an email at [02diegorf@gmail.com](mailto:02diegorf@gmail.com).
 
 Thanks for visiting!
+
+![giphy.gif](https://raw.githubusercontent.com/DiegR02/DiegR02/master/giphy.gif)
