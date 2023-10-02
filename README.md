@@ -4,7 +4,8 @@ My name's Diego and I'm a full-stack developer and this is my personal repositor
 
 ## About me ✎
 
-I'm graduted in Higher Degree in Cross-Platform Application Development.
+I'm graduated in Higher Degree in Cross-Platform Application Development.
+Also graduated in Higher Degree in Web Application Development
 
 ## Skills 🔧
 
