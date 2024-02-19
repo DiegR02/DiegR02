@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-My name's Diego and I'm a full-stack developer and this is my personal repository, where I save some of the projects I have made. Actually learning and improving.
+My name's Diego and I'm a Quality Assurance professional, specializing in functional and automated testing. This is my personal repository where I store projects I've developed. Always learning and improving.
 
 ## About me ✎
 
-I'm graduated in Higher Degree in Cross-Platform Application Development.
-Also graduated in Higher Degree in Web Application Development
+I'm graduated in Higher Degree in Cross-Platform Application Development & Higher Degree in Web Application Development.
 
 ## Skills 🔧
 
-- **Programming languages:** Java, Lua (CfxLua), GDScript
+- **Test automation frameworks:** Karate, Selenium, Protractor
+- **Programming languages:** Java, Lua, Python, GDScript
 - **Web development:** HTML, CSS, JavaScript, PHP
-- **Databases:** MySQL, MariaDB
+- **Databases:** MySQL, MariaDB, NoSQL, Oracle
 
 ## Recent Projects 💻
 
