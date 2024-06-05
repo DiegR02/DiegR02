@@ -15,11 +15,11 @@ I'm graduated in Higher Degree in Cross-Platform Application Development & Highe
 
 ## Recent Projects 💻
 
+- [K6 Foundation Project](https://github.com/DiegR02/K6-Foundation): Basic K6 project with simple script demonstrations.
 - [Testing Exercises](https://github.com/DiegR02/TestingEjercicios/tree/main): Three exercises related to functional and automated testing.
 - [Laravel Online Store](https://github.com/DiegR02/LaravelPHP_OnlineStore): An interesting online store developed with Laravel framework.
 - [Android Studio Calculator](https://github.com/DiegR02/JavaAndroidStudio_Calculator): A multifunction calculator developed with Android Studio in java language.
 - [PHP CRUD](https://github.com/DiegR02/PHP_CRUD): A PHP CRUD (Create, Read, Update, and Delete) demostration.
-- [Spring Boot Blog](https://github.com/DiegR02/JavaSpring_Blog): A simple blog developed with Spring Boot framework.
 
 ## Contact 📱
 
