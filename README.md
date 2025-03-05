@@ -8,7 +8,7 @@ I'm graduated in Higher Degree in Cross-Platform Application Development & Highe
 
 ## Skills 🔧
 
-- **Test automation frameworks:** Karate, Selenium, Protractor
+- **Test automation frameworks:** Karate, K6, Selenium, Protractor
 - **Programming languages:** Java, Lua, Python, GDScript
 - **Web development:** HTML, CSS, JavaScript, PHP
 - **Databases:** MySQL, MariaDB, NoSQL, Oracle
