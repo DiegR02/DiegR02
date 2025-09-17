@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name's Diego and I'm a Quality Assurance Automation, specialize in functional and automated testing. This is my personal repository where I store projects I've developed. Always learning and improving.
+My name's Diego, and I'm a Quality Assurance Automation Engineer specializing in functional and automated testing. This is my personal repository where I store the projects I've developed. Always learning and improving.
 
 ## About me ✎
 
-I'm graduated in Higher Degree in Cross-Platform Application Development & Higher Degree in Web Application Development. Also certified in ISTQB.
+I hold Higher Degrees in Cross-Platform Application Development and Web Application Development. I am also ISTQB certified.
 
 ## Skills 🔧
 
@@ -15,7 +15,7 @@ I'm graduated in Higher Degree in Cross-Platform Application Development & Highe
 
 ## Recent Projects 💻
 
-Here is a quick view of some of the most interesting projects in my repository.
+Here is a quick overview of some of the most interesting projects in my repository.
 
 ### Testing Automation 🧾
 
