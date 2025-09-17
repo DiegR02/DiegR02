@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-My name's Diego and I'm a Quality Assurance professional, specializing in functional and automated testing. This is my personal repository where I store projects I've developed. Always learning and improving.
+My name's Diego and I'm a Quality Assurance Automation, specialize in functional and automated testing. This is my personal repository where I store projects I've developed. Always learning and improving.
 
 ## About me ✎
 
-I'm graduated in Higher Degree in Cross-Platform Application Development & Higher Degree in Web Application Development.
+I'm graduated in Higher Degree in Cross-Platform Application Development & Higher Degree in Web Application Development. Also certified in ISTQB.
 
 ## Skills 🔧
 
-- **Test automation frameworks:** Karate, K6, Selenium, Protractor
-- **Programming languages:** Java, Lua, Python, GDScript
+- **Test automation frameworks:** Karate, K6, Selenium, Protractor, Cypress
+- **Programming languages:** Java, Lua, Python, Typescript, GDScript
 - **Web development:** HTML, CSS, JavaScript, PHP
 - **Databases:** MySQL, MariaDB, NoSQL, Oracle
 
